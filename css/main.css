@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+hr{
+    background-color: #000;
+    margin-bottom: 1em;
+    height: 1px;
+    width: 100%;
+}
+
+.mapPosition{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#map { 
+    width: 1400px;
+    height: 650px;
+}
